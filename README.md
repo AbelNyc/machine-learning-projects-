@@ -1,4 +1,4 @@
-# machine-learning-projects-
+# machine-learning-projects
 data analysis and machine learning
 
 This is a collection of smal machine projects that I worked on. I will update this repository overtime. 
